@@ -1,0 +1,17 @@
+Le cour :
+
+La programmation orientée objet il y a 4 principes: 
+
+L'ENCAPSULATION : cela permet de protéger l'état des attributs, pour le protéger des influences extérieures. par principe
+
+L'ABSTRACTION : il y a des classes abstraites et des méthodes abstrait, ces classes ne peuvent pas être instanciées. Dès lors qu'une classe possède une méthode abstraite, elle ne peut plus être instanciée
+
+L'HÉRITAGE: une classe enfant va hériter des propriétés et des méthodes d'une classe parente
+
+LE POLYMORPHISME : il s'agit d'un terme lié à l'héritage, cela permet aux objets de différentes classe de répondre différemment avec la même instance de base.
+
+Définition :
+
+CLASSE = il s'agit d'un moule avec les propriétés et méthodes qui vont permettre d'agir sur un objet
+
+OBJET = est une instance de la classe
