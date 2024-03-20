@@ -1,2 +1,2 @@
 # exercices_POO
- 3e partie d'exercices sur PHP
+ Troisème partie d'exercices sur PHP
